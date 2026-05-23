@@ -5,3 +5,24 @@ edition = "2024"
 
 [dependencies]
 rand = "0.8.5"
+
+[[example]]
+name = "most_common_word"
+path = "examples/leetcode/most_common_word.rs"
+
+[[example]]
+name = "rotate_linked_list"
+path = "examples/leetcode/rotate_linked_list.rs"
+
+[[example]]
+name = "two_sums"
+path = "examples/leetcode/two_sums.rs"
+
+[[example]]
+name = "ok_stack"
+path = "examples/too_many_linked_lists/ok_stack.rs"
+
+[[example]]
+name = "bad_stack"
+path = "examples/too_many_linked_lists/bad_stack.rs"
+
