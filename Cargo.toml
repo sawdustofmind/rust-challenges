@@ -26,3 +26,6 @@ path = "examples/too_many_linked_lists/ok_stack.rs"
 name = "bad_stack"
 path = "examples/too_many_linked_lists/bad_stack.rs"
 
+[[example]]
+name = "persistent_stack"
+path = "examples/too_many_linked_lists/persistent_stack.rs"
